@@ -22,7 +22,3 @@ You can also use maven:
 	 <version>58c4db94ce</version>
 </dependency>
 ```
-
-```
-
-```
