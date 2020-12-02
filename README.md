@@ -19,6 +19,7 @@ You can also use maven:
 <dependency>
 	 <groupId>com.github.Alfredo-Developer</groupId>
 	 <artifactId>Mojang-API-Wrapper</artifactId>
-	 <version>58c4db94ce</version>
+	 <version>e79c4dbbf9</version>
+	 <scope>compile</scope>
 </dependency>
 ```
